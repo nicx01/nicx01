@@ -11,7 +11,7 @@
 ###
 
 <p align="left">I'm a passionate software developer. I love exploring new technologies and building innovative solutions that make a difference.<br>With experience in web development using Laravel, I constantly challenge myself to deliver the best in my projects.</p>
-<p align="left">Try my ipTools project!  https://nicx01.github.io/ipTools/</p>
+<p align="left">Try my snake game!  https://nicx01.github.io/snake/</p>
 
 ###
 
